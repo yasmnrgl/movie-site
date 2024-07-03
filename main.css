@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
 
 :root{
-    --md-dark-color: #771818;
-    --dark-color: #4b0c0c;
-    --light-dark-color: #4e0202;
-    --yellow-color: #771616;
+    --md-dark-color: #a60000;
+    --dark-color: #000000;
+    --light-dark-color: #292929;
+    --yellow-color: #a30000;
 }
 *{
     padding: 0;
@@ -294,3 +294,7 @@ img{
         margin-left: 0;
     }
 }
+.back-button-container {
+    display: flex;
+    
+    }
